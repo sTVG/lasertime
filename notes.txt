@@ -1,0 +1,12 @@
+* Things we need
+
+** per path
+- colour
+- length
+
+** per colour
+- total length
+
+** per file
+- external dimensions
+- total length?
