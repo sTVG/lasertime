@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "svgtools"
+version = "0.1.0"
+description = ""
+authors = ["asher gray <asher@themakerspace.co.za>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+svgpathtools = "^1.6.1"
+ezdxf = "^1.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
