@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "svgtools"
+name = "lasertime"
 version = "0.1.0"
 description = ""
 authors = ["asher gray <asher@themakerspace.co.za>"]
@@ -8,7 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 svgpathtools = "^1.6.1"
-ezdxf = "^1.1.0"
+dxf2svg = "^0.1.4"
 
 
 [build-system]
