@@ -7,8 +7,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-svgpathtools = "^1.6.1"
 dxf2svg = "^0.1.4"
+svgpathtools = "^1.6.1"
+django = "^4.2.6"
 
 
 [build-system]

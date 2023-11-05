@@ -1,0 +1,17 @@
+alright, so im making a MVP fullstack webapp with django and python.
+the basic function of the webapp is to take an svg file and get a quote for lasercutting.
+the attached image is the current project structure and files so you can get an overview of what i have so far.
+
+#image of project structure#
+
+I'll paste some of the more important files:
+
+svg_processing.py:
+
+#code#
+
+views.py:
+
+#code#
+
+
